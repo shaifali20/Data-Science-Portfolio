@@ -11,7 +11,7 @@ This is a repository of the projects that I have worked on or are in progress. T
 [Logistic Regression](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Logistic%20Regression/Logistic%20Regression.ipynb)
 - A logistic regression model is applied to an advertising dataset to predict whether or not the user will click on an advertisement based off of the features of that user.
 
-[K Nearest Neighbors](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors.ipynb)
+[K Nearest Neighbors](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors.ipynb)
 - A KNN classification model is applied to a classified data set to directly predict a class for a new data point based off of the features. The dataset has hidden feature column names but the target class and data are provided.
 
 [Decision Tree and Random Forest](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Decision%20Tree%20and%20Random%20Forest/Decision%20Tree%20and%20Random%20Forest.ipynb)
