@@ -34,6 +34,6 @@ This is a repository of the projects that I have worked on or are in progress. T
 [Natural Language Processing](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Natural%20Language%20Processing/Natural%20Language%20Processing.ipynb)
 - The Natural Language Processing has been used to design a classifier that classifies Yelp Reviews into 1 star of 5 star categories based off the text content in the reviews.
 
-[Deep Learning and Neural Networks](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Deep%20Learning%20and%20Neural%20Networks/Deep%20Learning.ipynb)
+[Deep Learning and Neural Networks](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Deep%20Learning%20and%20Neural%20Networks/Deep%20Learning.ipynb)
 - The Neural Networks/Deep Learning algorithm is applied on the Bank Authentication Data Set from UCI repository to classify whether or not a Bank Note is authentic.
 - The result of classifier is also compared with the result of a Random Forest classifer.
