@@ -27,7 +27,7 @@ This is a repository of the projects that I have worked on or are in progress. T
 [Principal Component Analysis](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Principal%20Component%20Analysis%20-PCA/Principal%20Component%20Analysis%20(PCA).ipynb)
 - The Principal Componenet Analysis (PCA) algorithm is applied to a scikit-learn's built-in data set of breast cancer to identify the first 2 principal components and visualize the data in 2-dimensions.
 
-[Recommender Systems](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Recommender%20Systems/Recommender%20Systems.ipynb)
+[Recommender Systems](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Recommender%20Systems/Recommender%20Systems.ipynb)
 - Collaborative Filtering (CF) recommender systems are implemented that suggests the movies based on a famous MovieLens data set.
 - Implemented a Model-based CF recommender system by using Singular Value Decomposition (SVD) and a Memory-based CF by computing cosine similarity.
 
