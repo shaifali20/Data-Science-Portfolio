@@ -8,7 +8,7 @@ This is a repository of the projects that I have worked on or are in progress. T
 [Linear Regression](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Linear%20Regression/Linear%20Regression.ipynb)
 - A linear regression model is applied to an e-commerce dataset to decide whether to focus the efforts of the company on its mobile app or website development based on customer behavior.
 
-[Logistic Regression](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Logistic%20Regression/Logistic%20Regression.ipynb)
+[Logistic Regression](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Logistic%20Regression/Logistic%20Regression.ipynb)
 - A logistic regression model is applied to an advertising dataset to predict whether or not the user will click on an advertisement based off of the features of that user.
 
 [K Nearest Neighbors](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors.ipynb)
