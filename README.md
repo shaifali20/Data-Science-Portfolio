@@ -18,7 +18,7 @@ This is a repository of the projects that I have worked on or are in progress. T
 - Lending Club connects people who need money (borrowers) with people who have money (investors). Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. We will try to create a model that will help predict this. Lending Club had a [very interesting year in 2016](https://en.wikipedia.org/wiki/Lending_Club#2016), so let's check out some of their data and keep the context in mind.
 - A publicly available dataset from [LendingClub.com](www.lendingclub.com) has been used to classify and predict whether or not the borrower paid back their loan in full.
 
-[Support Vector Machines](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Support%20Vector%20Machines/Support%20Vector%20Machines%20-%20Breast%20Cancer.ipynb)
+[Support Vector Machines](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Support%20Vector%20Machines/Support%20Vector%20Machines%20-%20Breast%20Cancer.ipynb)
 - The Support Vector Machines algorithm is applied to a scikit-learn's built-in data set of breast cancer to design a classification model that predicts whether a cancer is Malignant or Benign.
 
 [K Means Clustering](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/K%20Means%20Clustering/K%20Means%20Clustering.ipynb)
