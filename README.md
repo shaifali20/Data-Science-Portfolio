@@ -24,7 +24,7 @@ This is a repository of the projects that I have worked on or are in progress. T
 [K Means Clustering](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/K%20Means%20Clustering/K%20Means%20Clustering.ipynb)
 - The K Means Clustering algorithm is applied to a university data set to design a classifier that predicts whether a university is a Private Univesrsity or a Public University. 
 
-[Principal Component Analysis](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Principal%20Component%20Analysis%20-PCA/Principal%20Component%20Analysis%20(PCA).ipynb)
+[Principal Component Analysis](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Principal%20Component%20Analysis%20-PCA/Principal%20Component%20Analysis%20(PCA).ipynb)
 - The Principal Componenet Analysis (PCA) algorithm is applied to a scikit-learn's built-in data set of breast cancer to identify the first 2 principal components and visualize the data in 2-dimensions.
 
 [Recommender Systems](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Recommender%20Systems/Recommender%20Systems.ipynb)
