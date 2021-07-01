@@ -14,7 +14,7 @@ This is a repository of the projects that I have worked on or are in progress. T
 [K Nearest Neighbors](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors.ipynb)
 - A KNN classification model is applied to a classified data set to directly predict a class for a new data point based off of the features. The dataset has hidden feature column names but the target class and data are provided.
 
-[Decision Tree and Random Forest](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Decision%20Tree%20and%20Random%20Forest/Decision%20Tree%20and%20Random%20Forest.ipynb)
+[Decision Tree and Random Forest](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Decision%20Tree%20and%20Random%20Forest/Decision%20Tree%20and%20Random%20Forest.ipynb)
 - Lending Club connects people who need money (borrowers) with people who have money (investors). Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. We will try to create a model that will help predict this. Lending Club had a [very interesting year in 2016](https://en.wikipedia.org/wiki/Lending_Club#2016), so let's check out some of their data and keep the context in mind.
 - A publicly available dataset from [LendingClub.com](www.lendingclub.com) has been used to classify and predict whether or not the borrower paid back their loan in full.
 
