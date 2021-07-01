@@ -21,7 +21,7 @@ This is a repository of the projects that I have worked on or are in progress. T
 [Support Vector Machines](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/Support%20Vector%20Machines/Support%20Vector%20Machines%20-%20Breast%20Cancer.ipynb)
 - The Support Vector Machines algorithm is applied to a scikit-learn's built-in data set of breast cancer to design a classification model that predicts whether a cancer is Malignant or Benign.
 
-[K Means Clustering](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/K%20Means%20Clustering/K%20Means%20Clustering.ipynb)
+[K Means Clustering](https://github.com/shaifali20/Data-Science-Portfolio/blob/main/K%20Means%20Clustering/K%20Means%20Clustering.ipynb)
 - The K Means Clustering algorithm is applied to a university data set to design a classifier that predicts whether a university is a Private Univesrsity or a Public University. 
 
 [Principal Component Analysis](https://github.com/PKandarp/Data-Science-Portfolio/blob/master/Principal%20Component%20Analysis%20-PCA/Principal%20Component%20Analysis%20(PCA).ipynb)
